@@ -16,6 +16,7 @@
 | <img src="designs/004-star-ring-orbit/preview.png" alt="星环萦绕暗色首屏预览" width="280" /> | [004 · 星环萦绕](designs/004-star-ring-orbit/README.md) | 暗色首屏、星环视频、液态玻璃、邮件订阅 | [更换视频与调整循环淡入淡出](designs/004-star-ring-orbit/DIY.md) |
 | <img src="designs/005-night-journey/preview.png" alt="星夜兼程星空首屏预览" width="280" /> | [005 · 星夜兼程](designs/005-night-journey/README.md) | 星空、视频背景、液态玻璃、衬线排版 | [更换星空视频与调整文字](designs/005-night-journey/DIY.md) |
 | <img src="designs/006-sacred-lake-flowers/preview.png" alt="神湖花海首屏预览" width="280" /> | [006 · 神湖花海](designs/006-sacred-lake-flowers/README.md) | 花海、湖泊、背景视频、液态玻璃、文字模糊入场 | [更换视频、封面和主题](designs/006-sacred-lake-flowers/DIY.md) |
+| <img src="designs/007-travel-window/preview.png" alt="旅行窗外列车窗景首屏预览" width="280" /> | [007 · 旅行窗外](designs/007-travel-window/README.md) | 列车窗景、视频背景、液态玻璃、逐词入场、邮件候补名单 | [替换窗景视频和订阅内容](designs/007-travel-window/DIY.md) |
 
 ## 收录方式
 
