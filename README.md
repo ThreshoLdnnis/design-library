@@ -6,6 +6,8 @@
 
 每条设计都有原始提示词、中文说明、标签、预览图和面向新手的 DIY 教程。预览图用于展示设计方向；具体实现以原始提示词和实际素材为准。
 
+视频素材来源：[Victor Oddy](https://x.com/viktoroddy)。
+
 | 预览 | 设计 | 标签 | 入门教程 |
 | --- | --- | --- | --- |
 | <img src="designs/001-space-travel-hero/preview.jpg" alt="电影感太空旅行首屏概念预览" width="280" /> | [001 · 电影感太空旅行首屏](designs/001-space-travel-hero/README.md) | 太空、背景视频、液态玻璃、文字动画 | [更换视频与调整风格](designs/001-space-travel-hero/DIY.md) |
