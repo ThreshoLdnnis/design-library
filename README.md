@@ -15,6 +15,7 @@
 | <img src="designs/003-velorah-electric-rv/preview.png" alt="Velorah 云海首屏预览" width="280" /> | [003 · 云端冥想](designs/003-velorah-electric-rv/README.md) | 六段式、视频叙事、液态玻璃、HLS | [替换四处视频并统一页面主题](designs/003-velorah-electric-rv/DIY.md) |
 | <img src="designs/004-star-ring-orbit/preview.png" alt="星环萦绕暗色首屏预览" width="280" /> | [004 · 星环萦绕](designs/004-star-ring-orbit/README.md) | 暗色首屏、星环视频、液态玻璃、邮件订阅 | [更换视频与调整循环淡入淡出](designs/004-star-ring-orbit/DIY.md) |
 | <img src="designs/005-night-journey/preview.png" alt="星夜兼程星空首屏预览" width="280" /> | [005 · 星夜兼程](designs/005-night-journey/README.md) | 星空、视频背景、液态玻璃、衬线排版 | [更换星空视频与调整文字](designs/005-night-journey/DIY.md) |
+| <img src="designs/006-sacred-lake-flowers/preview.png" alt="神湖花海首屏预览" width="280" /> | [006 · 神湖花海](designs/006-sacred-lake-flowers/README.md) | 花海、湖泊、背景视频、液态玻璃、文字模糊入场 | [更换视频、封面和主题](designs/006-sacred-lake-flowers/DIY.md) |
 
 ## 收录方式
 
