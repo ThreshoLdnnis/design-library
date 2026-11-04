@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Space Travel Hero — Concept Preview</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Barlow:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    * { box-sizing: border-box; }
+    html, body { margin: 0; min-height: 100%; }
+    body { font-family: Barlow, Arial, sans-serif; color: #fff; background: #112c45; }
+    .scene { min-height: 100vh; position: relative; display: flex; flex-direction: column; overflow: hidden; background: url('./preview-background.jpg') center 48% / cover no-repeat; }
+    .scene::before { content: ''; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(3, 16, 35, .16), rgba(3, 16, 35, .04) 48%, rgba(3, 16, 35, .38)); }
+    .content { position: relative; z-index: 1; min-height: 100vh; display: flex; flex-direction: column; }
+    .nav { display: flex; align-items: center; justify-content: space-between; padding: 22px 64px; }
+    .logo { width: 48px; height: 48px; display: grid; place-items: center; border: 1.5px solid rgba(255,255,255,.82); border-radius: 50%; font: italic 32px 'Instrument Serif', Georgia, serif; line-height: 1; }
+    .glass { background: rgba(255,255,255,.06); border: 1px solid rgba(255,255,255,.4); box-shadow: inset 0 1px 1px rgba(255,255,255,.2); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); }
+    .nav-pill { display: flex; align-items: center; gap: 25px; padding: 7px 8px 7px 28px; border-radius: 999px; font-size: 14px; font-weight: 500; }
+    .nav-pill span { white-space: nowrap; }
+    .claim { background: #fff; color: #15273c; border-radius: 999px; padding: 12px 17px; font-weight: 600; }
+    .spacer { width: 48px; }
+    .hero { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; padding: 40px 20px 72px; }
+    .badge { display: flex; align-items: center; gap: 13px; padding: 5px 15px 5px 5px; border-radius: 999px; font-size: 14px; }
+    .badge strong { background: #fff; color: #15273c; border-radius: 999px; padding: 7px 14px; font-size: 12px; }
+    h1 { margin: 24px 0 18px; max-width: 880px; font: italic 92px/.85 'Instrument Serif', Georgia, serif; letter-spacing: -3px; text-shadow: 0 2px 24px rgba(0,0,0,.13); }
+    .subtitle { margin: 0; max-width: 650px; font-size: 17px; font-weight: 300; line-height: 1.45; text-shadow: 0 1px 12px rgba(0,0,0,.25); }
+    .actions { display: flex; align-items: center; gap: 30px; margin-top: 28px; font-size: 15px; font-weight: 500; }
+    .primary { border-radius: 999px; padding: 14px 23px; }
+    .secondary { display: flex; align-items: center; gap: 8px; }
+    .partners { display: flex; flex-direction: column; align-items: center; gap: 24px; padding: 0 20px 32px; }
+    .partners-label { border-radius: 999px; padding: 9px 17px; font-size: 12px; font-weight: 500; }
+    .names { display: flex; align-items: center; gap: 70px; font: italic 31px 'Instrument Serif', Georgia, serif; }
+    @media (max-width: 800px) { .nav { padding: 20px 28px; } .nav-pill { display: none; } h1 { font-size: 64px; } .names { gap: 22px; font-size: 25px; flex-wrap: wrap; justify-content: center; } }
+  </style>
+</head>
+<body>
+  <div class="scene">
+    <div class="content">
+      <header class="nav">
+        <div class="logo" aria-label="Space travel logo">✦</div>
+        <nav class="nav-pill glass" aria-label="Main navigation">
+          <span>Home</span><span>Voyages</span><span>Worlds</span><span>Innovation</span><span>Plan Launch</span>
+          <span class="claim">Claim a Spot ↗</span>
+        </nav>
+        <div class="spacer"></div>
+      </header>
+      <main class="hero">
+        <div class="badge glass"><strong>New</strong><span>Maiden Crewed Voyage to Mars Arrives 2026</span></div>
+        <h1>Venture Past Our Sky<br />Across the Universe</h1>
+        <p class="subtitle">Discover the universe in ways once unimaginable. Our pioneering vessels and breakthrough engineering bring deep-space exploration within reach—secure and extraordinary.</p>
+        <div class="actions"><span class="primary glass">Start Your Voyage ↗</span><span class="secondary">View Liftoff <span>▶</span></span></div>
+      </main>
+      <footer class="partners">
+        <div class="partners-label glass">Collaborating with top aerospace pioneers globally</div>
+        <div class="names"><span>Aeon</span><span>Vela</span><span>Apex</span><span>Orbit</span><span>Zeno</span></div>
+      </footer>
+    </div>
+  </div>
+</body>
+</html>

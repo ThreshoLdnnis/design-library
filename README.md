@@ -4,7 +4,7 @@
 
 | 预览 | 设计 | 标签 | 入门教程 |
 | --- | --- | --- | --- |
-| <img src="designs/001-space-travel-hero/preview.png" alt="电影感太空旅行首屏概念预览" width="280" /> | [001 · 电影感太空旅行首屏](designs/001-space-travel-hero/README.md) | 太空、背景视频、液态玻璃、文字动画 | [更换视频与调整风格](designs/001-space-travel-hero/DIY.md) |
+| <img src="designs/001-space-travel-hero/preview.jpg" alt="电影感太空旅行首屏概念预览" width="280" /> | [001 · 电影感太空旅行首屏](designs/001-space-travel-hero/README.md) | 太空、背景视频、液态玻璃、文字动画 | [更换视频与调整风格](designs/001-space-travel-hero/DIY.md) |
 
 ## 收录方式
 
@@ -12,7 +12,7 @@
 
 - `README.md`：中文概览、标签、素材状态与入口。
 - `prompt.txt`：保留原始提示词。
-- `preview.png`：设计方向的静态预览。
+- `preview.jpg`：设计方向的静态预览。
 - `DIY.md`：按步骤讲解如何替换素材与调整效果。
 
 如果某条设计还附带可运行代码或其他素材，也放在该条目的目录中，并在说明里标出用途。
