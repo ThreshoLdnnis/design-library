@@ -1,5 +1,8 @@
-# 动态效果UIUX设计灵感库
-# 当凛冬越过英吉利海峡进入伦敦时，我的爱会带着洋桔梗来见你 God chose u to be my Muse.
+<h1 align="center">动态效果UIUX设计灵感库</h1>
+
+<p align="center">
+  <img src="assets/muse-quote.svg" alt="当凛冬越过英吉利海峡进入伦敦时，我的爱会带着洋桔梗来见你 God chose u to be my Muse." width="100%" />
+</p>
 
 每条设计都有原始提示词、中文说明、标签、预览图和面向新手的 DIY 教程。预览图用于展示设计方向；具体实现以原始提示词和实际素材为准。
 
